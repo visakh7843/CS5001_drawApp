@@ -1,6 +1,6 @@
-#Vector drawing 
+# Vector drawing 
 
-A simple vector graphics drawing program using Java Swing
+A simple vector graphics drawing program using Java Swing. Program follows Model-View-Controller design pattern.
 
 ## Executing and Running the vector Drawing Program:
 Give execution permission to compile_run.sh if not present.
@@ -17,9 +17,6 @@ This script will compile the necessary test case java files and also run the tes
 as well.
 If any test cases fail, It will be displayed and if any fail that is also displayed.
 
-## Deliverables executed
-This practical has been implemented using Model-View-Controller (MVC) design pattern.
-All Basic requirements have been satisfied and implemented here.
-Advanced feature of saving and reloading vector drawintg was attempted but was unsuccessful.
+
 
 
