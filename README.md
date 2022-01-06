@@ -17,6 +17,7 @@ This script will compile the necessary test case java files and also run the tes
 as well.
 If any test cases fail, It will be displayed and if any fail that is also displayed.
 
+![image](https://user-images.githubusercontent.com/28330410/148402133-583d9241-0026-4835-a18e-d18ba1ad1581.png)
 
 
 
